@@ -9,20 +9,20 @@ On va vous montrer partie par partie comment se constitue notre application et �
 
 Alors voici comment notre example se présente (on aimerait pouvoir rajouter une fonctionnalité pour ce connecter via riot)
 
-![Logo de Mon Application](Screenshot/authentification.png)
+![Authentification](Screenshot/authentification.png)
 
 # Partie Principal
 
 Notre partie principal pour le moment se déroule en 3 parties, la premiere partie où on voit les match esport qu'ils sont prévu, la deuxieme partie où on voit les matchs fini avec les résultats et la derniere partie où on voit les matchs qui sont en cours.
 Et on pourra trier les matchs par région.
 
-![Logo de Mon Application](Screenshot/Match.png)       ![Logo de Mon Application](Screenshot/Completed.png)         ![Logo de Mon Application](Screenshot/Live.png)
+![Matchs](Screenshot/Match.png)       ![Logo de Mon Application](Screenshot/Completed.png)         ![Logo de Mon Application](Screenshot/Live.png)
 
 # Partie Profile
 
 Cette partie est juste une partie profile basique on aimerais mettre l'avatar valorant en tant que photo de profile mettre le nom etc...
 
-![Logo de Mon Application](Screenshot/Profile.png)
+![Profile](Screenshot/Profile.png)
 
 # Quelle est le but de cette application ??
 
