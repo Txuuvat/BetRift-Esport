@@ -1,4 +1,5 @@
 <img src="Screenshot/logo.png" alt="Logo de Mon Application" width="200" height="200" />
+
 # BetRift-Esport
 
 Salut Riot, nous n'avions pas de Product URL à proprement parler. Du coup, nous avons décidé de créer un GitHub en espérant que cela ne vous dérange pas et que nous soyons assez clairs sur ce GitHub. Nous allons vous montrer, partie par partie, comment se constitue notre application, et à la fin, nous vous dirons ce que nous souhaitons rajouter, car tout ce que vous verrez ci-dessous n'est qu'un exemple. Vous ne verrez que le squelette de ce que nous voulons faire, car il nous faut d'abord pouvoir accéder à vos données. À la fin, nous vous expliquerons quel est le but et quelles sont les choses que nous souhaitons rajouter. Nous restons à votre écoute pour toute question.
