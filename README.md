@@ -19,3 +19,9 @@ Et on pourra trier les matchs par région.
 ![Logo de Mon Application](Screenshot/Match.png)       ![Logo de Mon Application](Screenshot/Completed.png)         ![Logo de Mon Application](Screenshot/Live.png)
 
 # Partie Profile
+
+Cette partie est juste une partie profile basique on aimerais mettre l'avatar valorant en tant que photo de profile mettre le nom etc...
+
+![Logo de Mon Application](Screenshot/Profile.png)
+
+# Quelle est le but de cette application ??
