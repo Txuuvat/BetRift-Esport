@@ -27,3 +27,9 @@ Cette partie est juste une partie profile basique on aimerais mettre l'avatar va
 # Quelle est le but de cette application ??
 
 Le but de cette application est d'impliquer les joueurs dans l'esport de valorant de manière interactive et competitive. L'interaction des joueurs se fait via des pari pour les match esport via une monnaie virtuelle. La monnaie virtuelle sera gratuite chaque joueur pourront chaque jour gagner de la monnaie virtuelle avec des défis sur valorant (par exemple faire 20 kills sur une partie) et en connectant chaque jours. Les joueurs pourront donc parier pour l'équipe qui pense gagner on rajoutera des cotes pour chaque match en fonction des statistiques des matchs précédents.
+
+# Prochainement ?
+Ce qu'on voudrait faire prochainement si vous nous laisser l'accès a vos données, on aimerait rajouter:    
+- Classement des meilleurs parieur sur l'application
+- Les défis chaque jours
+- Leaderboard Valorant
