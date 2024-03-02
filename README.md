@@ -1,4 +1,4 @@
-![Logo of My Application](Screenshot/logo.png)
+<img src="Screenshot/logo.png" alt="Logo de Mon Application" width="200" height="200" />
 
 # BetRift-Esport
 
