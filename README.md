@@ -14,7 +14,7 @@ So, here's how our example looks (we would like to add a feature to log in via R
 
 Our main section currently has three parts. The first part shows upcoming esport matches, the second part displays finished matches with results, and the last part shows ongoing matches. We can sort the matches by region.
 
-![Matches](Screenshot/Match.png) ![Completed](Screenshot/Completed.png) ![Live](Screenshot/Live.png)
+![Matches](Screenshot/Matches.png) ![Completed](Screenshot/Completed.png) ![Live](Screenshot/Live.png)
 
 # Profile Section
 
