@@ -8,7 +8,7 @@ Hello Riot, we didn't have a proper Product URL, so we decided to create a GitHu
 
 So, here's how our example looks (we would like to add a feature to log in via Riot).
 
-![Authentication](Screenshot/authentication.png)
+![Authentication](Screenshot/Authentication.png)
 
 # Main Section
 
